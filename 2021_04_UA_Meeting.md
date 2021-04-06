@@ -36,7 +36,7 @@ The meeting will start at 2pm BST / 3pm CEST / 9am EST.
 
 * 5:20: Towards UA2.0 - Guidelines
   * Predication (Amir Zeldes?)
-  * Discontinuous Markables (CorefUD team) (Zdenek will probably present)
+  * Discontinuous Markables (CorefUD team) 
   * UA for spoken dialogue (Massimo)
 
 ### Final discussion
